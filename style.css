@@ -8,7 +8,7 @@ h1 {
     color: #333;
 }
 #saludo {
-    color: #be3636;
+    color: blueviolet;
 }
 
 h2 {
@@ -59,4 +59,9 @@ input[type="submit"] {
     margin-top: 20px;
     font-size: 18px;
     color: #555;
+}
+.submit {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
